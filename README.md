@@ -8,7 +8,7 @@
 [<img align="left" alt="junghans | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=nwPxp24AAAAJ&pagesize=100)
 [<img align="left" alt="junghans | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />](https://www.researchgate.net/profile/Christoph_Junghans)
 [<img align="left" alt="junghans | publons" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/publons.svg" />](https://publons.com/researcher/G-4238-2010/)
-[<img align="left" alt="junghans | LANL" width="22px" src="https://lanl.gov/favicon.ico" />](https://m.lanl.gov/junghans)
+[<img align="left" alt="junghans | LANL" width="22px" src="https://lanl.gov/icon.png" />](https://m.lanl.gov/junghans)
 
 <br />
 
